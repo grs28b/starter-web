@@ -23,3 +23,7 @@ New section 2
 # New Section 3
 
 New section 3
+
+# How to contribute
+
+Section on to add code to the current project.
